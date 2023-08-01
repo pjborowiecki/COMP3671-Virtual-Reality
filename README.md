@@ -1,3 +1,4 @@
+<div>  
   <h1 align="center">3D Graphics Engine Prototype: Rendering Content for Virtual Reality Headsets</h1>
   <h3 align="center">COMP3671 Virtual Reality Assignment 2022/2023</h3>
   <p align="center">
